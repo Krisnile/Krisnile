@@ -1,7 +1,7 @@
 ## Hi there, I'm Krisnile 👋
 Krisnile-Blog[https://krisnile.github.io/]
 
-<img align="right" alt="GIF" height="160px" src="https：//user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" />
+<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
 
 ## About me
 ### I'm a Computer Science and Technology Student 
