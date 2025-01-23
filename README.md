@@ -36,10 +36,10 @@ Krisnile-Blog[https://krisnile.github.io/]
   
 <div align="center"> 
      <a href="">
-      <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Krisnile&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&line_height=40" tyle="width: 60%; height: auto;" />
+      <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Krisnile&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&line_height=40" tyle="width: 35%; height: auto;" />
     </a>
     <a href="">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krisnile&theme=tokyonight&line_height=40&hide=css" tyle="width: 40%; height: auto;" />
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krisnile&theme=tokyonight&line_height=40&hide=css" tyle="width: 25%; height: auto;" />
     </a>
 </div>
 
