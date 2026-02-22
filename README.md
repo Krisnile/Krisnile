@@ -13,13 +13,12 @@
  |_|\___/|___/_|_||_|_|\__|_||_|
                                 
 ```
-
-**Computer Science & Technology** · *热爱探索与创造*
+</div>
 
 ---
 
 <details open>
-<summary><b>🖥️ <code>$ whoami</code></b></summary>
+<summary><b>🖥️ <code>$ Computer Science & Technology · 热爱探索与创造</code></b></summary>
 
 ```bash
 $ whoami
@@ -45,15 +44,17 @@ $ cat about.txt
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 <br>
-<!-- Blog 徽章 -->
-<a href="https://krisnile.github.io/">
-  <img src="https://img.shields.io/badge/📝_Blog-krisnile.github.io-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="Blog" />
-</a>  
-<br>
 <!-- Profile Views 徽章 -->
 <a href="https://github.com/Krisnile">
   <img src="https://komarev.com/ghpvc/?username=Krisnile&color=0D1117&style=flat-square&label=profile+views" alt="Profile Views" />
 </a>
+<br>
+<!-- Blog 徽章 -->
+<a href="https://krisnile.github.io/">
+  <img src="https://img.shields.io/badge/📝_Blog-krisnile.github.io-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="Blog" />
+</a>  
+
+
 
 </td>
 
@@ -98,8 +99,8 @@ $ cat about.txt
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Krisnile&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="48%" alt="Stats" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Krisnile&layout=compact&theme=tokyonight&hide_border=true&hide=html,css" width="48%" alt="Top Langs" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Krisnile&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="48%" height="170" alt="Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Krisnile&layout=compact&theme=tokyonight&hide_border=true&hide=html,css" width="48%" height="170" alt="Top Langs" />
 </p>
 
 
@@ -119,7 +120,7 @@ $ cat about.txt
 ### 💬 Random Dev Quote
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" width="100%" alt="Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" alt="Quote" />
 </p>
 
 
