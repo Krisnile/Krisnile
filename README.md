@@ -16,27 +16,6 @@
 
 **Computer Science & Technology** · *热爱探索与创造*
 
-<table>
-<tr>
-<td width="50%" align="center">
-  <!-- Blog 徽章 -->
-  <a href="https://krisnile.github.io/">
-    <img src="https://img.shields.io/badge/📝_Blog-krisnile.github.io-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="Blog" />
-  </a>
-  <br>
-  <!-- Profile Views 徽章 -->
-  <a href="https://github.com/Krisnile">
-    <img src="https://komarev.com/ghpvc/?username=Krisnile&color=0D1117&style=flat-square&label=profile+views" alt="Profile Views" />
-  </a>
-</td>
-<td width="50%" align="center">
-  <img src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" width="200" />
-</td>
-</tr>
-</table>
-
-</div>
-
 ---
 
 <details open>
@@ -57,31 +36,38 @@ $ cat about.txt
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="33%" align="center" valign="top">
 
 ### 📬 Quick Links
 
-<div align="center">
-  <!--  Blog 徽章 -->
-  <a href="https://krisnile.github.io/">
-    <img src="https://img.shields.io/badge/Blog-FF7139?style=for-the-badge&logo=blogger&logoColor=white" alt="Blog" />
-  </a>
-  <br>
-
-  <!--  GitHub 徽章 -->
-  <a href="https://github.com/Krisnile">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</div>
+<!-- GitHub 徽章 -->
+<a href="https://github.com/Krisnile">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+<br>
+<!-- Blog 徽章 -->
+<a href="https://krisnile.github.io/">
+  <img src="https://img.shields.io/badge/📝_Blog-krisnile.github.io-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="Blog" />
+</a>  
+<br>
+<!-- Profile Views 徽章 -->
+<a href="https://github.com/Krisnile">
+  <img src="https://komarev.com/ghpvc/?username=Krisnile&color=0D1117&style=flat-square&label=profile+views" alt="Profile Views" />
+</a>
 
 </td>
-<td width="50%" valign="top">
+
+<td width="33%" align="center" valign="top">
 
 ### 📊 Live Stats
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Krisnile&theme=tokyonight&hide_border=true" alt="Streak" />
-</p>
+<img src="https://streak-stats.demolab.com/?user=Krisnile&theme=tokyonight&hide_border=true" alt="Streak" />
+
+</td>
+
+<td width="34%" align="center" valign="top">
+
+<img src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" width="200" />
 
 </td>
 </tr>
