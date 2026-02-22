@@ -5,20 +5,15 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=FFFFFF&background=0D1117&center=true&vCenter=true&width=600&height=70&lines=Hi+%F0%9F%91%8B%2C+I'm+Krisnile;Welcome+to+my+GitHub!;Full+Stack+Developer;Open+Source+Enthusiast" alt="Typing SVG" />
   </a>
 </div>
-
-```
-  _  ___  ___ _     _ _ _       
- | |/ _ \/ __(_)_ _| (_) |_ _ _ 
- | | (_) \__ \ | ' \| |  _| ' \ 
- |_|\___/|___/_|_||_|_|\__|_||_|
-                                
-```
 </div>
 
 ---
 
 <details open>
 <summary><b>🖥️ <code>$ Computer Science & Technology · 热爱探索与创造</code></b></summary>
+
+<div style="display: flex; gap: 20px; margin-top: 10px;">
+  <div style="flex: 2;">
 
 ```bash
 $ whoami
@@ -30,6 +25,19 @@ $ cat about.txt
 ├── Mindset  → Never stop discovering & exploring
 └── Chat     → Ask me anything
 ```
+
+  </div>
+  <div style="flex: 1; text-align: center;">
+
+```text
+  _  ___  ___ _     _ _ _       
+ | |/ _ \/ __(_)_ _| (_) |_ _ _ 
+ | | (_) \__ \ | ' \| |  _| ' \ 
+ |_|\___/|___/_|_||_|_|\__|_||_|
+```
+
+  </div>
+</div>
 
 </details>
 
